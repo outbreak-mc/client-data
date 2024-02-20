@@ -5,8 +5,8 @@
     },
     "updates": {
         "qol": {
-            "last-num": 2,
-            "last": "1.2"
+            "latest-n": 2,
+            "latest": "1.2"
         }
     },
     "event-button": {
