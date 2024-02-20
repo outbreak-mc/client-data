@@ -2,12 +2,14 @@
     "button-splash": "MODBREAK 2024",
     "qol-last-version": "1.2",
     "event-button": {
+        "show": 1,
         "label": "MODBREAK 2024",
         "url": "https://outbreak-mc.github.io/modbreak2024/",
         "texture": "https://raw.githubusercontent.com/outbreak-mc/client-data/master/textures/event-button.png",
         "texture-hov": "https://raw.githubusercontent.com/outbreak-mc/client-data/master/textures/event-button-hov.png"
     },
     "server-button": {
+        "show": 1,
         "server-ip": "mc.outbreak.tw1.ru",
         "label": "OUTBREAK",
         "texture": "https://raw.githubusercontent.com/outbreak-mc/client-data/master/textures/server-button.png",
