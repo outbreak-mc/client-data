@@ -3,7 +3,12 @@
         "show": 1,
         "text": "MODBREAK 2024"
     },
-    "qol-last-version": "1.2",
+    "updates": {
+        "qol": {
+            "last-num": 2,
+            "last": "1.2"
+        }
+    },
     "event-button": {
         "show": 1,
         "label": "MODBREAK 2024",
