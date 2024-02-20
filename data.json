@@ -1,5 +1,8 @@
 {
-    "button-splash": "MODBREAK 2024",
+    "button-splash": {
+        "show": 1,
+        "text": "MODBREAK 2024"
+    },
     "qol-last-version": "1.2",
     "event-button": {
         "show": 1,
