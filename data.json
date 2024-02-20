@@ -1,7 +1,8 @@
 {
     "button-splash": {
         "show": 1,
-        "text": "MODBREAK 2024"
+        "text": "MODBREAK 2024",
+        "color": "#7f53ed"
     },
     "updates": {
         "qol": {
